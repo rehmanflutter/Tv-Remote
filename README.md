@@ -3,6 +3,16 @@
 A new Flutter project.
 
 ## Getting Started
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f1a0e0c5-90c6-4324-b5f8-4b07c9cafe55" width="30%">
+  <img src="https://github.com/user-attachments/assets/741d9b41-8f49-4ce3-bea8-5330a14a1d11" width="30%">
+  <img src="https://github.com/user-attachments/assets/847b3128-1a2f-49b6-96e7-edc2c6ba09d6" width="30%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fbc7955e-fcba-4618-8072-a18839c538c3" width="30%">
+  <img src="https://github.com/user-attachments/assets/dda277a4-fb2e-4bd8-a2f8-ed2ed599e79c" width="30%">
+</p>
 
  <table>
         <tr>
